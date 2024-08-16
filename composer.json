@@ -15,7 +15,7 @@
     },
     "extra": {
         "download-dist": {
-            "url": "https://github.com/duncanmcclean/simple-commerce/releases/download/{$version}/dist.tar.gz",
+            "url": "https://github.com/duncanmcclean/simple-commerce/releases/download/v7.4.1/dist.tar.gz",
             "path": "dist"
         },
         "statamic": {
